@@ -24,6 +24,6 @@ a:visited {
 }
 
 img:hover {
-    display: none;
+    opacity: 0%;
 }
 
